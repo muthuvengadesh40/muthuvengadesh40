@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Hi there, I'm Muthuvengadesh M
 
-<!--
-**muthuvengadesh40/muthuvengadesh40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Linux System Administrator | RHCSA Course Completed (via Red Hat Academy)  
+💻 Java & C Programmer | Web App Developer  
+🌐 Passionate about building reliable systems and automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+- **Linux System Admin**: User/Group management, LVM, File permissions, Networking  
+- **Programming**: Java (OOP, File Handling), C, Shell Scripting  
+- **Web Development**: HTML, CSS, JavaScript  
+- **Tools**: Git, VS Code, Bash, File I/O, CLI utilities
+
+---
+
+### 🌱 Currently Exploring
+
+- Backend architecture & APIs  
+- Shell scripting projects & automation tools  
+- System-level debugging and monitoring
+
+---
+
+### 🎯 Looking For
+
+- 👨‍💻 **Full-time roles** in Linux Admin, Java Dev, or Web Development  
+- 🤝 Opportunities to collaborate on real-world backend and system-based projects
+
+---
+
+### 📫 Let's Connect
+
+- GitHub: [@muthuvengadesh40](https://github.com/muthuvengadesh40)
+- Email: muthuvengadesh39@gmail.com
+
+---
+
+> 💡 _“I believe real learning comes from building, breaking, and fixing systems that matter.”_
+
